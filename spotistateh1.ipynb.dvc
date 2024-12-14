@@ -1,0 +1,5 @@
+outs:
+- md5: d42f8308ee5ce5bf76a27f190f88cfcb
+  size: 1089868
+  hash: md5
+  path: spotistateh1.ipynb
