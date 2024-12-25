@@ -1,7 +1,6 @@
 [core]
-    remote = gdrive
+    remote = github
 ['remote "dvc"']
     url = https://drive.google.com/drive/folders/1HParEmvD5Eh8C5Vw3j7xw6Cpxq3Q2q6p?usp=drive_link
-['remote "gdrive"']
-    url = gdrive://1wXNngGBy45o5Ucb4WlbLh1CpgFr9TMJP
-    gdrive_client_id = C:/Users/asus/Desktop/dvckeys/keyfile.json
+['remote "github"']
+    url = https://github.com/iistatiehh/music-recomandation.git
